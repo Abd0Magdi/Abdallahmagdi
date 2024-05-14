@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Abdallah Magdi - Mechanical Engineer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Abdallah Magdi</h1>
+        <h2>Mechanical Engineer</h2>
+    </header>
+    <div class="container">
+        <section>
+            <h3>About Me</h3>
+            <p>Hello, I'm Abdallah Magdi, a mechanical engineer with 4 years of experience in maintenance and facilities management. I'm passionate about finding efficient solutions to complex problems in mechanical systems.</p>
+        </section>
+        <section>
+            <h3>Skills & Experience</h3>
+            <ul>
+                <li>Mechanical Engineering</li>
+                <li>Maintenance</li>
+                <li>Facilities Management</li>
+                <li>Problem-solving</li>
+                <!-- Add more skills or experiences here -->
+            </ul>
+        </section>
+        <section>
+            <h3>Contact Me</h3>
+            <p>Email: abdallah.magdi@example.com</p>
+            <!-- Add more contact information as needed -->
+        </section>
+    </div>
+</body>
+</html>
